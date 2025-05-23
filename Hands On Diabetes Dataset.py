@@ -1,6 +1,3 @@
-
-#HANDS ON
-#///////////////////////
 #HANDS ON
 #how diabetes disease develops or worsens
 #over time in a patient w.r.t. BML.
@@ -60,6 +57,3 @@ plt.show()
 
 correlation = data[['bmi', 'target']].corr()
 print("Correlation between BMI and disease progression:\n", correlation)
-
-
-#///////////////////////
